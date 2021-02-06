@@ -1,1 +1,1 @@
-## Things covered in Tech University
+## Tech University
